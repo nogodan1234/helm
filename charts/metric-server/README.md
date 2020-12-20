@@ -30,7 +30,7 @@ https://github.com/kubernetes-sigs/metrics-server
 
 ## Installing the Chart
 
-To install the chart with the name `nutanix-csi`:
+To install the chart with the name `metric-server`:
 
 ```console
 helm repo add nutanix https://nutanix.github.io/helm/
